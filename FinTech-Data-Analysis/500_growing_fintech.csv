@@ -1,0 +1,552 @@
+Company,City,State,Country,Funding,Industry,Employees,Predictive Score
+BlockFi,New York,NY,USA,$508.7M,Fintech,505,1098
+Fast,San Francisco,CA,USA,$124.5M,Fintech,148,967
+Public.com,New York,NY,USA,$308.5M,Fintech,102,723
+Human Interest,San Francisco,CA,USA,$136.7M,Investments,282,710
+M1 Finance,Chicago,IL,USA,$173.2M,Fintech,164,696
+Fireblocks,New York,NY,USA,$179M,Fintech,70,669
+Chipper Cash,San Francisco,CA,USA,$52.2M,Payments/Transfer,108,660
+Finix,San Francisco,CA,USA,$96M,Fintech,115,648
+Corvus Insurance,Boston,MA,USA,$145.8M,Fintech,151,590
+HomeTown Ticketing,Columbus,OH,USA,,Fintech,109,584
+Greenlight Financial Technology,Atlanta,GA,USA,$556.5M,Fintech,222,568
+Brex,San Francisco,CA,USA,$1.2B,Lending - Business,600,556
+Symend,Calgary,AB,CAN,$103.6M,Fintech,259,554
+StartEngine,Los Angeles,CA,USA,$37.6M,SaaS,137,551
+Chainalysis,New York,NY,USA,$266.6M,Blockchain,230,550
+MANTL,New York,NY,USA,$62.3M,Banking as a Service,77,527
+Gravy,Cumming,,,$7M,Fintech,95,522
+EasyKnock,New York,NY,USA,$344.7M,Investments - Real Estate,72,509
+Varo Money,San Francisco,CA,USA,$482.4M,Consumer Finance,373,500
+Varo Bank,San Francisco,CA,USA,$482.4M,Fintech,370,499
+Clearcover,Chicago,IL,USA,$304.5M,Insurance,204,497
+Policygenius,New York,NY,USA,$161M,Insurance,531,496
+Trade Republic,Berlin,,Germany,$151M,Investments,336,485
+Marqeta,Oakland,CA,USA,$528M,Payments/Transfer,563,484
+Chainlink Labs,San Francisco,San Francisco,USA,,Fintech,86,467
+,,,,,,,
+Figure,San Francisco,CA,USA,$1.4B,Fintech,312,464
+Chargebee,Walnut,CA,USA,$218.2M,Fintech,591,463
+Flutterwave,San Francisco ,CA,USA,$234.7M,Payments/Transfer,369,463
+Truework,San Francisco,CA,USA,$44.9M,Fintech,111,453
+Own Up,Boston,MA,USA,$24.2M,Lending - Consumer,158,450
+Pipe,San Francisco,CA,USA,$216M,Fintech,85,448
+Next Insurance,Palo Alto,CA,USA,$881M,Insurance,501,444
+Dapper Labs,Vancouver,BC,CAN,$357.5M,Fintech,149,441
+PayMongo,Taguig,,,$14.7M,Fintech,71,438
+Vouch Insurance,San Francisco,CA,USA,$94.2M,Insurance,84,434
+Petal,New York,NY,USA,$562.2M,Payments/Transfer,120,432
+Melio,New York,NY,USA,$250M,Fintech,271,419
+Pagaya Investments,New York,NY,USA,$221.3M,Investments - Business,231,416
+Rapyd,London,ENG,UK,$470M,Payments/Transfer,247,416
+Blend,San Francisco,CA,USA,$665M,Financial SaaS,741,414
+Pie Insurance,Washington,DC,USA,$306M,Insurance,262,412
+Beam Dental,Columbus,OH,USA,$168.4M,Insurance,253,411
+iCapital Network,New York,NY,USA,$239.2M,Investments - Business,322,410
+Socure,New York,NY,USA,$196.9M,Compliance SaaS,230,394
+The Zebra,Austin,TX,USA,$256.5M,Insurance,289,394
+MotoRefi,Arlington,VA,USA,$24.1M,Fintech,107,393
+Addepar,Mountain View,CA,USA,$322.8M,Financial SaaS,436,390
+Dave,Los Angeles,CA,USA,$173M,Fintech,169,385
+Lendistry,Brea,CA,USA,$1.5M,Lending - Consumer,111,380
+At-Bay,Mountain View,CA,USA,$87M,Insurance,95,378
+,,,,,,,
+Reggora,Boston,MA,USA,$43.9M,SaaS,93,374
+Deserve,Menlo Park,CA,USA,$237.1M,Fintech,114,373
+Mati,San Francisco,CA,,$16.5M,Fintech,81,372
+Truebill,San Francisco,CA,USA,$38.9M,Fintech,85,368
+Chime,San Francisco,CA,USA,$1.5B,Consumer Finance,888,362
+Sezzle,Minneapolis,MN,USA,$271.6M,Fintech: Payments,313,357
+Wealthsimple,Toronto,ON,CAN,$380.9M,Fintech: Consumer,597,355
+Self Financial,Austin,TX,USA,$77M,Fintech,165,352
+QuadPay,New York,NY,USA,,Payments/Transfer,157,349
+Behavox,New York,NY,USA,$121.4M,Financial SaaS,201,349
+Hometap,Boston,MA,USA,$112M,Consumer - Lending,81,348
+Aspiration.com,Marina Del Rey,CA,USA,$250M,Consumer Finance,204,347
+LendingPoint,Kennesaw,GA,USA,$1.9B,Lending - Business,166,342
+Certn,Victoria,,,$45.2M,Fintech,112,341
+KOHO,Toronto,ON,CAN,$113.4M,Fintech: Consumer,164,341
+Sana Benefits,Austin,TX,USA,$26.8M,Insurance,98,339
+ChargeAfter,New York,NY,USA,$9.5M,Lending - Consumer,40,339
+Splash Financial,Cleveland,OH,USA,$16.6M,Payments/Transfer,66,337
+Digital Asset,New York,NY,USA,$307.2M,Blockchain,153,336
+Wise,San Mateo,CA,USA,,Banking as a Service,50,336
+Openly,Boston,MA,USA,$62.7M,Insurance,60,333
+Cowbell,Pleasanton,CA,,$23.6M,Insurance,67,331
+States Title,San Francisco,CA,USA,$379.6M,Insurance,348,330
+QOMPLX,Tysons,VA ,USA,$107M,IT Consulting,214,330
+AltoIRA,Nashville,TN,USA,$30.3M,Blockchain,56,329
+,,,,,,,
+SafeGraph,Denver,CO,,$61M,FinTech,85,322
+BillGO,Fort Collins,CO,USA,$113.7M,Fintech,211,318
+Lendio,South Jordan,UT,USA,$108.5M,Lending - Business,503,318
+DriveWealth Holdings,Chatham,NJ,USA,$100.8M,Fintech,125,317
+Fairmarkit,Boston,MA,USA,$41.9M,Payments/Transfer,87,316
+Capital,New York,NY,USA,$14M,Fintech,47,316
+MPOWER Financing,Washington,DC,USA,$270M,Finance,79,316
+EquityBee,Palo Alto,CA,,$28.3M,Fintech,45,315
+Octane Lending,New York,NY,USA,$368.7M,Payments/Transfer,149,313
+Mambu,,Ber,USA,€152M,FinTech,535,310
+Pilot.com,San Francisco,CA,USA,$161.3M,SaaS,151,308
+Secfi,San Francisco,CA,USA,$557M,Fintech,48,308
+Brace,Santa Monica,CA,USA,$30.5M,Fintech,40,307
+nesto,Montreal,QC,CAN,$8.5M,Lending - Consumer,66,306
+Covered by SAGE,New York,NY,USA,$6M,Insurance,170,306
+SellersFunding,New York,NY,USA,,Fintech,69,304
+Mission Lane,San Francisco,CA,USA,$500M,Fintech,205,295
+MX.com,Lehi,UT,USA,$450M,Data services,702,294
+Clearbanc,Toronto,ON,CAN,$469.4M,Fintech: B2B,282,291
+Trust & Will,San Diego,CA,,$23M,Fintech,50,288
+Algorand,Boston,MA,USA,$126M,Blockchain,135,288
+Vested Finance,Berkeley,CA,,$1.2M,Fintech,42,285
+Mercury - Banking for Startups,San Francisco,CA,USA,$52.2M,Fintech,83,282
+PowerPay - home improvement financing,Ardmore,PA,USA,,Fintech,55,280
+oneZero Financial Systems,Cambridge,MA,USA,,Investments - Business,98,280
+Matador,New York,NY,USA,,Consumer Finance,102,278
+Checkout.com,London,ENG,UK,$830M,Payments/Transfer,969,278
+dLocal,,VA,USA,$357M,Payments/Transfer,339,277
+Upgrade,San Francisco,CA,USA,$222M,Lending - Consumer,311,276
+Juniper Square,San Francisco,CA,USA,$108M,Payments/Transfer,253,276
+Coinme,Seattle,WA,USA,$9.1M,Blockchain,50,272
+Altruist,Los Angeles,CA,USA,$8.5M,Investments,97,270
+OpenFin,New York,NY,USA,$47M,Financial SaaS,89,270
+Alloy,New York,NY,USA,$55.8M,Fintech,86,268
+Next Insurance,Palo Alto,CA,USA,$881M,Insurance,475,266
+Signifyd,San Jose,CA,USA,$390M,Compliance SaaS,354,263
+Divvy,Draper,UT,USA,$417.5M,Payments/Transfer,446,261
+Marshmallow,London,ENG,UK,$31.2M,Insurance,104,261
+Lendbuzz,Boston,MA,USA,$228.6M,Lending - Consumer,61,259
+TrueLayer,London,ENG,UK,$141.8M,Financial SaaS,184,257
+Galileo Financial Technologies,Salt Lake City,UT,USA,$85.3M,Fintech,362,256
+Venminder,Elizabethtown,KY,USA,$49.3M,Compliance SaaS,155,256
+Forter,New York,NY,USA,$225M,Payments/Transfer,341,255
+SimpleNexus,Lehi,UT,USA,$128M,Lending - Consumer,157,252
+Moneybox,,,UK,$69.9M,Fintech,211,252
+Facet Wealth,Baltimore,MD,USA,$58M,Fintech,240,250
+Alt,San Francisco,CA,,$31M,Fintech,67,250
+PayActiv,San Jose,CA,USA,$133.7M,Fintech,177,250
+Bolt,San Francisco,CA,USA,$215.1M,Payments/Transfer,242,250
+Ribbon,New York,NY,USA,$555M,Payments/Transfer,74,249
+,,,,,,,
+Flinks.io,Montreal,QC,CAN,$14.2M,Data Services,107,248
+Spreedly,Durham,NC,USA,$81.1M,Payments/Transfer,108,247
+Park Place Payments,Los Angeles,CA,USA,,Fintech,73,247
+t0.com,New York,NY,USA,$472M,Blockchain,82,246
+Albert,Culver City,CA,USA,$172.9M,Fintech,143,246
+Kasisto,New York,NY,USA,$50.5M,Banking As A Service,87,246
+Aumni,Salt Lake City,UT,USA,$13M,Fintech,94,245
+Paxos,New York,NY,USA,$235.3M,Blockchain,151,244
+Neat Capital,Boulder,CO,USA,$47.4M,Fintech,86,243
+Bakkt,Atlanta,GA,USA,$482.5M,Fintech,183,243
+AutoRABIT,San Ramon,CA,USA,$12.5M,Fintech,178,243
+Ripple,San Francisco,CA,USA,$293.8M,Payments/Transfer,552,242
+Bond,San Francisco,CA,USA,$42M,Fintech,51,241
+Guideline Technologies,San Mateo,CA,USA,401(k,Investments - Business,196,237
+Classy.org,San Diego,CA,USA,$183.5M,Fintech,265,236
+Happy Money,Costa Mesa,CA,USA,$141.6M,Payments/Transfer,365,235
+Origin,San Francisco,CA,USA,$16M,Fintech,53,235
+Blockchain,London,ENG,UK,$490M,Investments - Crypto,760,234
+Celsius Network,London,,,$93.8M,Investments,156,233
+NorthOne Business Banking,New York,NY,USA,$23.3M,Fintech,73,231
+Jasper,New York,NY,USA,$114M,Lending - Consumer,72,230
+SafetyWing,Palo Alto,CA,,$12.1M,Insurance,39,230
+Gabi,San Francisco,CA,USA,$39.1M,Insurance,140,227
+Clyde,New York,NY,USA,$17M,Lending - Consumer,49,227
+LeaseQuery,Atlanta,GA,USA,$40M,Accounting,198,221
+,,,,,,,
+Numerated,Boston,MA,USA,$32M,Banking as a Service,98,221
+Core Scientific,Bellevue,WA,USA,$115M,Payments/Transfer,100,220
+Take Command Health,Dallas,TX,USA,$17.2M,Insurance,41,220
+Plastiq,San Francisco,CA,USA,$141.8M,Payments/Transfer,150,218
+Amount,Chicago,IL,USA,$139M,Fintech,371,218
+Tribal Credit,San Francisco,CA,USA,$43.4M,Lending - Business,54,217
+Stash,New York,NY,USA,$427.4M,Investments - Consumer,331,216
+Gabi Insurance Manager,San Francisco,CA,USA,$39.1M,Insurance,140,216
+Remitly,Seattle,WA,USA,$505M,Payments/Transfer,960,216
+Plaid,San Francisco ,CA,USA,$734.3M,Payments/Transfer,663,215
+West Creek Financial,Glen Allen,VA,USA,$195.5M,Payments/Transfer,231,213
+LeaseLock,Marina del Rey,CA,USA,$63.5M,Insurance,73,212
+Baton Systems,Fremont,CA,USA,$19.1M,Fintech,50,210
+BOLD PENGUIN,Columbus,OH,USA,$50.5M,Insurance,173,210
+Symphony.com,Palo Alto,CA,USA,$461M,Communications,469,208
+BlueVine,Redwood City,CA,USA,$767.5M,Lending - Business,406,208
+C2FO,Leawood,KS,USA,$397.7M,Fintech: Lending,509,207
+Edquity,Brooklyn,NY,USA,$3M,Fintech,35,207
+Vesta Corp,Lake Oswego,OR,USA,$20M,Finance,370,207
+LendingHome,San Francisco,CA,USA,$240.9M,Investments - Real Estate,298,205
+Airwallex,Hong Kong,CA,Australia,$502M,Payments/Transfer,520,204
+Personetics,New York,NY,USA,$93M,Financial SaaS,197,204
+Celo,San Francisco,CA,USA,$56.5M,Payments/Transfer,39,204
+ProducePay,Los Angeles,CA,USA,$299.9M,Fintech,73,204
+Milo,Miami,FL,,$6M,Fintech,32,203
+,,,,,,,
+CloudMargin,London,ENG,UK,$25M,Fintech,65,202
+Securitize,San Francisco,CA,USA,$39.5M,Blockchain,58,201
+ecoATM Gazelle,San Diego,CA,USA,$272.4M,Fintech,324,200
+Trumid,New York,NY,USA,$402.3M,Investments - Business,104,199
+Neudata,,,,$1.6M,Investments,37,197
+CreditShop,Austin,TX,USA,$139.5M,Payments/Transfer,148,197
+Xtiva Financial Systems,Rockville Centre,,,$10M,Fintech,59,196
+Ocrolus,New York,NY,USA,$47M,Financial SaaS,252,196
+Cleo,London,England,,$57.3M,Fintech,136,195
+Teampay,New York,NY,USA,$21M,FinTech,56,195
+Dataminr,New York,NY,USA,$1.1B,Financial SaaS,678,191
+Root Inc.,Columbus,OH,USA,$527.5M,Consumer Finance,946,191
+Securrency,District of Columbia,,,$64.5M,Fintech,53,191
+One,San Francisco,CA,USA,$26M,Banking as a Service,70,190
+Starling Bank,London,ENG,UK,£685M,Banking As A Service,842,190
+Thunes,Singapore,,,$70M,Payments/Transfer,124,188
+Trulioo,Vancouver,BC,CAN,$80.8M,Compliance SaaS,223,187
+Thought Machine,London,ENG,UK,$148.6M,Banking as a Service,459,187
+Airbase,San Francisco,CA,USA,$30.5M,Fintech,89,186
+Captable.io, San Francisco,CA ,USA,$69.4M,Investments - Crypto,73,186
+Genesis Global Technology,New York,NY,USA,$49.8M,Payments/Transfer,64,186
+INSTANDA,London,ENG,UK,$28.1M,Fintech,109,185
+Altonomy,Singapore,,,$7M,Blockchain,90,185
+Quavo,Wilmington,DE,USA,,IT Consulting,69,183
+Access Fintech,New York,NY,USA,$37.5M,Compliance SaaS,82,183
+Huckleberry,,,,$22M,Insurance,45,181
+Acrisure,Caledonia,MI,USA,$3.5B,Insurance,766,181
+Northstar,Los Angeles,CA,,$10.8M,Fintech,34,180
+Splitit,New York,NY,USA,$264.6M,Lending - Consumer,111,180
+Q4,Toronto,ON,CAN,$91.3M,Fintech,538,180
+Canalyst,Vancouver,BC,CAN,$26.2M,Fintech,153,178
+INSHUR,New York,NY,USA,$11.6M,Insurance,92,178
+Hummingbird,San Francisco,CA,,$11.2M,Fintech,33,175
+SURE,,,,$23.1M,Insurance,67,173
+UpSwot,Berkeley,CA,,$5M,Fintech,43,172
+Paro.io,Chicago,IL,USA,$18.5M,Fintech,124,171
+Codat,London,ENG,UK,,Fintech,107,169
+botkeeper,Boston,MA,USA,$47.5M,Accounting,236,168
+Vyapar app,Bangalore,,India,,Fintech,102,167
+Passport,Charlotte,NC,USA,$123.5M,Fintech: Payments,349,167
+Atom Finance,New York,NY,USA,$18.6M,Investments,33,166
+Hyperproof,Bellevue,WA,,$5.8M,Fintech,38,165
+Capdesk,London,,UK,$15.3M,FinTech,48,165
+Climb Credit,New York,NY,USA,$68.6M,Fintech,70,165
+Mollie,Amsterdam,NH,Netherlands,€115M,Payments/Transfer,389,165
+Thinksurance,Frankfurt am Main,,Germany,,Insurance,89,165
+CoinDCX,Mumbai,,India,,Fintech,95,164
+Back Office.co,West Palm Beach,,,$3.1M,FinTech,59,164
+MSTS,Overland Park,KS,USA,,Payments/Transfer,730,163
+Ladder Life,Palo Alto,CA,USA,$94M,Insurance,71,163
+,,,,,,,
+xtraCHEF,New York,NY,USA,$10.5M,FinTech,63,162
+Plum Fintech,London,,United Kingdom,,Fintech,90,161
+Payroc,Tinley Park,IL,USA,,Fintech,463,161
+Privacy.com,,,,$12.4M,Fintech,50,160
+Idea Financial,Miami,FL,USA,$1.5M,Fintech,34,160
+CurrencyCloud,London,ENG,UK,$160.2M,Payments/Transfer,295,160
+Socotra,San Francisco,CA,USA,$32.9M,Insurance,100,160
+Buckle,Atlanta,GA,USA,$31M,Insurance,363,159
+CAIS,New York,NY,USA,$81M,Fintech,173,159
+Sunbit,Los Angeles,CA,USA,$54M,Lending - Consumer,140,159
+SourceScrub,San Francisco,CA,USA,,Fintech,205,158
+Messari,New York,NY,,$5M,Fintech,33,157
+Chargeback,Salt Lake City,UT,USA,$15M,Fintech,89,157
+Starship,New York,NY,USA,$7M,Fintech,44,156
+PayStand,Scotts Valley,CA,USA,$28.3M,Payments/Transfer,76,156
+Digit,,,,$66.3M,Consumer Finance,118,155
+Accern,New York,NY,USA,$19M,Fintech,51,153
+Nayax,Hunt Valley,MD,USA,$24.5M,Payments/Transfer,333,153
+OnPay,Atlanta,GA,USA,$6M,Fintech,61,153
+Axoni,New York,NY,USA,$90.8M,Blockchain,75,151
+Sureify,San Jose,CA,USA,,Insurance,178,150
+Autobooks,Detroit,MI,USA,$47.8M,Finance,72,150
+AlphaSense,New York,NY,USA,$87.1M,Investments - Business,400,149
+Titan,New York,NY,,$15M,Fintech,175,149
+SoLo Funds,Los Angeles,CA,,$12.9M,Fintech,34,147
+,,,,,,,
+Young Alfred,Philadelphia,PA,USA,$12.3M,Insurance,37,147
+Topl,Houston,Houston,,$4.4M,Fintech,40,147
+Bitpay,,,USA,$72.5M,Investments - Crypto,118,146
+Taulia,San Francisco,CA,USA,$216.7M,SaaS,317,146
+CLARA analytics,Santa Clara,CA,USA,$36.5M,Insurance,63,145
+NextCapital Group,Chicago,IL,USA,$82.3M,Investments - Consumer	,140,145
+Genesis Trading,,,Unknown,,Investments - Crypto,58,145
+Even Responsible Finance,Oakland,CA,USA,$52M,Consumer Finance,125,145
+PayJoy,San Francisco,CA,USA,$97.2M,Consumer Finance,134,144
+Roger,San Francisco,CA,USA,$7.4M,Lending - Business,72,144
+Onfido,London,ENG,UK,$188.8M,Compliance SaaS,465,144
+Collective,San Francisco,CA,,$8.7M,Fintech,187,143
+Clarity AI,Madrid,Mad,Spain,$62.6M,Fintech,109,142
+Payveris,Cromwell,CT,USA,$21.2M,Payments/Transfer,56,141
+Delphia,Toronto,ON,CAN,$14.1M,Fintech,37,141
+Veem,San Francisco,CA,USA,$100.3M,Payments/Transfer,129,141
+IEX Group,New York,NY,USA,$100.9M,Investments - Crypto,139,140
+Nova Credit,San Francisco,CA,USA,$69.4M.,Lending - Consumer,70,140
+CrossBorderSolutions.io,Tarrytown,NY,USA,$46M,Payments/Transfer,360,140
+OpenInvest,San Francisco,CA,USA,$24.3M,Investments,54,140
+ReCharge Payments,Santa Monica,CA,USA,,Fintech,248,140
+Cashfree,BANGALORE,KAR,India,,Fintech,239,139
+Signzy,BANGALORE,KAR,India,,Fintech,158,138
+Vena Solutions,Toronto,ON,CAN,$417.9M,Fintech,451,137
+SalaryFinance,London,ENG,UK,$288.8M,Consumer Finance,179,137
+,,,,,,,
+Health IQ,Mountain View,CA,USA,$136.5M,Insurance,286,137
+GoCardless,London,ENG,UK,$217.3M,Payments/Transfer,495,137
+Modulr Finance,,,,£62.4M,Payments/Transfer,214,136
+Camino Financial,Los Angeles,CA,USA,$20.4M,Fintech,77,136
+riskified,New York,NY,USA,$228.7M,Fintech,597,136
+Prime Trust,Las Vegas,NV,USA,$5M,Payments/Transfer,105,135
+Chosen Payments,Moorpark,,,$4M,Payments/Transfer,61,135
+Credit Sesame,Mountain View,CA,USA,$120.5M,Fintech,154,135
+AppZen,San Jose,CA,USA,$100.6M,Fintech,271,134
+Abra,Mountain View,CA,USA,$47M,Investments - Crypto,71,134
+Lively,San Francisco,CA,USA,$42.2M,Fintech,89,133
+FinLocker,Clayton,MO,,$25.2M,Fintech,35,133
+Sproutt Insurance,Hartford,,,$12M,Insurance,47,131
+Brave Software,San Francisco,CA,USA,$42M,Blockchain,128,131
+Cloud9 Technologies,New York,NY,USA,$61.5M,Financial SaaS,89,131
+hibob,London,ENG,UK,$124M,Insurance,206,131
+Kurtosys Systems,London,ENG,UK,$26.3M,SaaS,224,131
+Polychain Capital,,,,$35M,Blockchain,44,131
+Gemini Trust,New York,NY,USA,,Investments - Crypto,452,131
+DEMICA,London,ENG,UK,$70M,Fintech,135,130
+Indio Technologies Inc.,San Francisco,CA,USA,$28M,Insurance,86,130
+Countingup,London,London,,£15.9M,Fintech,45,130
+SirionLabs,New York,NY,USA,$61M,Financial SaaS,517,129
+Clear Street,New York,NY,USA,,Fintech,99,129
+Wyre,"San Francisco, California",CA,USA,$29.1M,Investments - Crypto,34,129
+GRUBBRR,Boca Raton,FL,USA,,Fintech,81,128
+Tesorio,Burlingame,,,$16.9M,Lending - Business,51,128
+FutureFuel.io,Boston,MA,USA,$25.8M,Lending - Consumer,39,127
+Frank.,New York,NY,,$20.5M,Fintech,79,127
+EverywareÂ®,Austin,TX,USA,$9.2M,FinTech,31,127
+TickSmith Corp.,Montreal,QC,CAN,$8.6M,Investments - Business,66,126
+Self Lender,Austin,TX,USA,$77M,Consumer Finance,174,126
+TrueAccord,San Francisco ,CA,USA,$47.1M,Financial SaaS,239,124
+Tally Technologies,San Francisco,CA,USA,$92M,Consumer Finance,149,123
+OneShield Software,Marlborough,MA,USA,$8.8M,Insurance,256,123
+FortisPay,Novi,,,,Payments/Transfer,57,123
+Fenergo,Dublin,IRE,Ireland,$160.4M,Compliance SaaS,606,122
+Truist Wealth,,DC,USA,,Fintech,134,121
+PayCargo,Miami,FL,USA,$35M,Payments/Transfer,50,121
+mPokket,Kolkata,,USA,,Fintech,192,121
+Numerai,San Francisco,CA,USA,$21.5M,Investments - Consumer,32,120
+RoadSync,Atlanta,GA,USA,$8.3M,Payments/Transfer,52,120
+Strong Home Mortgage,Woodbridge,VA,USA,,Fintech,109,120
+Benefytt,Tampa,FL,USA,,Fintech,114,119
+ComplyAdvantage,New York,NY,USA,$88.2M,Data Services,255,119
+Lemonade,New York,NY,USA,$480M,Insurance,564,118
+Bitcoin Suisse,Zug,Zug,Switzerland,,Investments - Crypto,191,117
+Appway,ZÃ¼rich,ZH,,$37M,Fintech,153,117
+Clover Network,Sunnyvale,CA,,$14.6M,FinTech,441,117
+Possible,Seattle,WA,USA,$137.5M,Fintech,93,116
+,,,,,,,
+Bitcoin.com,Frigate Bay,,St. Kitts,$1M,Investments - Crypto,120,115
+Galaxy Digital,New York,NY,USA,,Banking as a Service,154,115
+Landed,San Francisco,CA,USA,$22.1M,Fintech,56,115
+Brigit,New York,NY,USA,$113M,Investments,46,114
+Infinicept,Denver,CO,USA,,Fintech,53,113
+EverQuote,Cambridge,MA,USA,$37.6M,Fintech,426,113
+Rally,New York,NY,,$26.9M,Fintech,42,113
+Aiera,New York,NY,,$10.5M,Fintech,30,112
+Upstart,San Carlos ,CA,USA,$144.1M,Fintech,607,112
+Chargify,San Antonio,TX,USA,,Payments/Transfer,110,111
+INPAY - The global payments network,"København K, Capital Region",,Denmark,,Payments/Transfer,82,111
+Superscript,London,,United Kingdom,,Insurance,77,111
+Eco,San Francisco,CA,,$34.5M,Fintech,28,109
+Summer,,,,$12.4M,Lending - Consumer,36,109
+Nexo,London,LON,UK,$52.5M,Blockchain,128,108
+Form3,London,ENG,UK,$18M,Payments/Transfer,180,108
+Till,Alexandria,VA,,$11M,Fintech,31,107
+Empower,San Francisco,CA,USA,$24.5M,Fintech,42,106
+Network Capital Funding Corporation,Miami,FL,USA,,Fintech,359,105
+DFINITY,Palo Alto,CA,USA,,Blockchain,149,103
+Chqbook.com,Gurgaon,,India,,Fintech,124,101
+Chronicled,San Francisco,CA,USA,$28M,Blockchain,49,101
+Tassat,New York,NY,USA,,Blockchain,42,100
+FinMkt,New York,NY,USA,$11.9M,Fintech,43,100
+Qonto,Paris,,France,,FinTech,373,99
+,,,,,,,
+Fisdom,Bangalore,KA,India,$5.5M,Investments - Consumer,261,99
+Built Technologies,Nashville,TN,USA,$164.1M,Fintech,178,99
+Blinker App,Denver,CO,USA,$10M,Fintech,32,99
+CoinList,San Francisco,CA,USA,$19.2M,Fintech,34,98
+Pando,San Francisco,CA,USA,$11.6M,Fintech,37,98
+WorldRemit,London,ENG,UK,$407.7M,Payments/Transfer,816,98
+SafraPay,Miami,FL,USA,,Fintech,146,96
+Aplazame,Madrid,,Spain,,Fintech,101,96
+MoneyTap,Bangalore,,India,,Fintech,262,95
+HealthiPASS,Oak Brook,IL,USA,$10.2M,Payments/Transfer,45,95
+Zensurance,Toronto,ON,CAN,,Insurance,117,94
+Vestwell,New York,NY,USA,$42.5M,Financial SaaS,104,93
+Scratchpay,,,,$73.8M,Lending - Consumer,59,92
+LoanSnap,San Francisco,CA,USA,$52.7M,Fintech,45,92
+Blast,Newport Beach,CA,USA,$12M,Consumer Finance,35,92
+FirstClose,Austin,TX,USA,$34.7B,Data,34,92
+AlphaPoint,New York,NY,USA,$23.2M,Blockchain,34,92
+True North,San Francisco,CA,USA,,Blockchain,60,92
+Bought By Many,London,ENG,UK,$29.2M,Insurance,187,92
+DailyPay,New York,NY,USA,$14M,Fintech,324,92
+Earnix,Givatayim,,Israel,$100.5M,Fintech,226,91
+Uphold,Larkspur,CA,USA,$15.5M,Investments - Crypto,159,91
+smallcase,Bangalore,,India,$8M,Investments - Consumer,154,90
+Tide,London,ENG,UK,,Fintech,600,90
+Transmit Security,Newton,MA,USA,$40M,Tech Services,214,88
+,,,,,,,
+Creditas Solutions,Gurgaon,HR,India,,Fintech,182,88
+Wagestream,London,ENG,UK,,Fintech,106,87
+Getsafe,Heidelberg,,Germany,,Insurance,116,87
+RStor,Saratoga,CA,USA,$94.4M,Fintech,102,85
+Finxact,Jacksonville,FL,USA,$42M,Fintech,86,85
+Generate Capital,San Francisco,CA,USA,$760M,Investments - Business,115,85
+YayPay,New York,NY,USA,$13.8M,FinTech,79,84
+NinjaTrader Group,Denver,CO,USA,,Fintech,127,82
+GAIN Capital Poland,Cracow,,USA,$55M,Investments,99,82
+Simplifeye,New York,NY,USA,$3M,Fintech,71,81
+Boast.AI (Boast Capital),San Francisco,CA,USA,,Fintech,49,80
+Eduvanz,Mumbai,MAH,India,,Fintech,125,78
+Taxfix,Berlin,Ber,Germany,,Fintech,261,78
+solarisBank,Berlin,,Germany,€95.1M,Banking As A Service,407,76
+Rupeek,Bengaluru,KA,India,$9.2M,Lending - Business,734,75
+AuditBoard,El Segundo,CA,USA,$43.6M,Risk,281,75
+Colmore,Birmingham B3 2BJ,,UK,,Fintech,134,74
+iBanFirst,BRUSSELS,,Belgium,,Fintech,229,74
+Alumni Ventures Group,Manchester,NH,USA,,Fintech,225,73
+CreditNinja,Chicago,IL,USA,,Fintech,97,73
+ZayZoon,Calgary,AB,CAN,$15M,Payments/Transfer,56,73
+Expensya,Paris,AZL,France,,FinTech,156,72
+Silverfin,Ghent,,,,Financial SaaS,161,72
+Pleo.io,Copenhagen,,Denmark,$78.8M,Payments/Transfer,268,72
+Banking Circle,London,ENG,UK,,Fintech,301,72
+MoMo,Ho Chi Minh,,Vietnam,$133.8M,Payments/Transfer,574,71
+Chip Financial,,,,,Fintech,107,71
+ImpactGuru,Mumbai,MAH,India,,Fintech,160,71
+Parity Technologies,London,ENG,UK,,Blockchain,125,70
+Supernova Lendingâ„¢,"Chicago, IL",IL,USA,,Lending - Business,49,70
+Bitwala,Berlin,Ber,Germany,,Fintech,94,69
+Credible,San Francisco,CA,USA,$25.8M,Fintech,239,69
+Sunlight Financial,New York ,NY,USA,$705M,Lending - Consumer,224,68
+Paymerang,Richmond,VA,USA,$36M,Payments/Transfer,129,68
+Spendesk,Paris,AZL,France,,FinTech,267,68
+Homebot,Denver,CO,USA,$4.5M,SaaS,78,67
+Blucora,Irving,TX,USA,,Financial SaaS,175,66
+ClarisHealth,Nashville,TN,USA,,Fintech,123,66
+MadHive,New York,NY,USA,,Blockchain,75,66
+SmartFinancial,Costa Mesa,CA,USA,,Insurance,136,66
+R3,New York,NY,USA,$112M,Blockchain,432,66
+MountainSeed,Atlanta,GA,USA,,Fintech,97,65
+MAJORITY,Stockholm,,USA,,Fintech,78,65
+RefiJet,Denver,CO,USA,,Fintech,59,64
+Nexsys Technologies,Detroit,MI,USA,,Lending - Business,56,64
+Lendable,London,ENG,UK,Â£1B,Lending - Consumer,81,64
+Haven Life,New York,NY,USA,,Insurance,269,64
+MoneyMe,Sydney,NSW,Australia,$121.3M,Lending - Consumer,92,63
+SmartAsset,New York,NY,USA,$51.4M,Consumer Finance,169,62
+JVM Lending,Walnut Creek,CA,USA,,Lending - Consumer,63,62
+,,,,,,,
+MerchantE,Alpharetta,GA,USA,,Fintech,128,62
+DataRails,New York,,IL,,FinTech,48,62
+Swyfft,Morristown,NJ,USA,$7.5M,Insurance,85,62
+Wirex,London,ENG,UK,$7.9M,Consumer Finance,222,61
+Patriot Software,Canton,OH,USA,,FinTech,105,61
+Tabit - Restaurant Technologies,Aventura,FL,USA,,FinTech,101,60
+International Bancard Corporation,Detroit,MI,USA,,Fintech,110,60
+BentoBox,New York,NY,USA,$52.4M,Fintech,154,59
+Cuvva,London,ENG,UK,$1.9M,Insurance,104,59
+Shogun Enterprises,San Francisco,CA,USA,$2.1M,Lending - Consumer,121,59
+Payability,New York,NY,USA,,Lending - Business,73,58
+Openpay.,Melbourne,VIC,Australia,$10M,Payments/Transfer,215,58
+MountainSeed,Atlanta,GA,USA,,Fintech,93,57
+Bankable,London,ENG,UK,,Banking As A Service,60,57
+UCL Centre for Blockchain Technologies,London,ENG,UK,,Blockchain,84,57
+Paxful,Wilmington,DE,USA,,Investments - Crypto,381,57
+WePay,Redwood City,CA,USA,$74.2M,Payments/Transfer,434,57
+CASHe - Instant Personal Loans,Mumbai,,India,,Fintech,147,57
+SmartBiz Loans,San Francisco,CA,USA,,Fintech,168,56
+Arcus,New York,NY,USA,,Banking as a Service,81,56
+MakerDAO,Santa Cruz,CA,USA,$27M,Blockchain,117,55
+Invoice Cloud,Braintree,MA,USA,,Payments/Transfer,230,55
+Fintech.net,Tampa,FL,USA,,Payments/Transfer,562,55
+Embroker,San Francisco,CA,USA,$42.4M,Insurance,136,54
+Cross River,Fort Lee,NJ,USA,$361M,Banking As A Service,400,53
+,,,,,,,
+Wisr,Sydney,NSW,Australia,,Lending - Consumer,87,53
+zlien,New Orleans,LA,USA,$46.8M,Payments/Transfer,222,53
+Rev.io,Atlanta,GA,USA,$2.5M,Payments/Transfer,88,53
+Paidy,Tokyo,,Japan,$397.9M,Payments/Transfer,135,53
+xpate,London,,United Kingdom,,Fintech,49,52
+Duco,London,UK,UK,$28M,FinTech,164,52
+NewLane Finance,Philadelphia,PA,USA,,Fintech,86,52
+Katapult,New York,NY,USA,$286M,Lending - Consumer,101,52
+Billie,Berlin,Ber,Germany,,Fintech,122,52
+"Finicity, a Mastercard Company",Murray,UT,USA,$79.9M,Fintech,564,51
+Penta,Berlin,,Germany,,Fintech,135,50
+Branch,Minneapolis,MN,USA,,Fintech,96,49
+PayPlug,Paris,,France,,Fintech,102,49
+NerdWallet,San Francisco,CA,USA,,Consumer Finance,617,49
+Verato,McLean,VA,USA,$35M,Fintech,102,49
+PayNearMe,Santa Clara,CA,USA,$30.7M,Payments/Transfer,79,49
+Nvoicepay,Beaverton,OR,USA,$24.9M,Payments/Transfer,190,49
+Reorg Research,New York,NY,USA,$1.3M,Data Services,267,49
+RenewBuy,Gurgaon,HR,India,$10.2M,Insurance,455,49
+Zip Co Limited,Sydney,NSW,Australia,,Fintech,498,49
+Levvel.io,Charlotte,NC,USA,$6.5M,Fintech,209,48
+TradingView,Chicago,IL,USA,$40.8M,Investments - Consumer⇥,368,48
+Bitcoin IRA,"Sherman Oaks, California",CA,USA,,Investments - Crypto,131,48
+Bill.com,Palo Alto,CA,USA,$279.7M,Payments/Transfer,798,47
+Canoe,,,,,Investments,38,47
+,,,,,,,
+OKCoin,San Francisco,CA,USA,,Fintech,261,47
+i3 Verticals,Nashville,TN,USA,$30.8M,Payments/Transfer,140,46
+Green Street,Newport Beach,CA,USA,,Fintech,325,46
+Paymentus,Charlotte,NC,USA,$3.4M,Fintech: Payments,489,46
+Savana,Malvern,PA,USA,,Fintech,69,46
+Singapore Life,Singapore,,Singapore,$173M,Insurance,102,45
+Anovaa,Malvern,PA,USA,,Fintech,44,45
+S3 Partners,New York,NY,USA,,Compliance SaaS,51,44
+Payzer,Charlotte,NC,USA,$19.2M,Fintech: Payments,108,43
+Tendermint,Berkeley,CA,USA,$9M,Blockchain,47,43
+Extend Enterprises,New York,NY,USA,$14M,Technology,49,43
+Fattmerchant,Orlando,FL,USA,$18.3M,Payments/Transfer,116,43
+CoverWallet,New York,NY,USA,$28.3M,Insurance,332,42
+Biz2Credit,Noida,UP,India,$387M,Lending - Business,350,41
+Acumatica,Bellevue,WA,USA,$48.3M,Accounting,290,41
+Alan,,,France,$374M,Insurance,288,40
+OpenGamma,London,WA,USA,$50.2M,Compliance SaaS,69,40
+AZLO,San Francisco,CA,USA,,Lending - Business,139,39
+Capital On Tap,London,ENG,UK,Â£140M,Lending - Business,125,38
+Kyriba,San Diego,CA,USA,$152.5M,Financial SaaS,873,38
+Lemonway,Paris,,France,,Fintech,142,37
+FundThrough,Toronto,ON,CAN,$122.2M,Fintech: Payments,61,37
+Wealth Access,Nashville,TN,USA,$8M,SaaS,80,37
+Earnest,San Francisco,CA,USA,$316.3M,Fintech,210,37
+Mash - We say yes,Helsinki,UU,Finland,€138M,Payments/Transfer,313,36
+PayIt,Kansas City,MO,USA,$104.5M,Fintech: Payments,112,36
+TaxJar,Woburn,MA,USA,$62.6M,Accounting,189,35
+Zafin,Toronto,ON,CAN,$47.2M,Banking as a Service,417,35
+CITCON,Santa Clara,CA,USA,$18M,Payments/Transfer,44,35
+Featurespace,Cambridge,MA,UK,$107.9M,Fintech,327,34
+Technisys,Miami,FL,USA,$64M,Fintech,923,33
+Soldo,,,UK,,Fintech,199,33
+LendingFront,Newark,NJ,USA,$4M,Payments/Transfer,61,32
+Bank Novo,New York,NY,USA,$4.8M,Fintech,58,32
+Masabi,London,ENG,UK,$40.8M,FinTech,142,30
+Usio,San Antonio,TX,USA,,Fintech,51,29
+dv01,New York,NY,USA,$34M,Fintech,89,29
+Grabango,Berkeley,CA,USA,$32.2M,Payments/Transfer,66,29
+Loantap Financial Technologies,Pune,,India,$21.2M,Lending - Consumer,102,28
+Delio,Cardiff,Wal,UK,,FinTech,68,28
+SIB Fixed Cost Reduction,Charleston,,,$94.4M,Fintech,70,28
+Forward Financing,Boston,MA,USA,$90M,Lending - Business,145,28
+Paymentsense,London,ENG,UK,$415M,Payments/Transfer,997,27
+wefox Group,Berlin,,Germany,,Insurance,414,27
+Standard Cognition,San Francisco,CA,USA,$238.5M,Payments/Transfer,133,24
+Digit Insurance,Bengaluru,KA,India,$244.5M,Insurance,917,24
+WeLab,Sheung Wan,,Hong Kong,$425M,Compliance SaaS,179,24
+RiskLens,Spokane,WA,USA,$26.8M,Payments/Transfer,104,24
+EBANX,Curitiba,PR,Brazil,$30M,Fintech,764,23
+Otis,New York,NY,USA,$14.5M,Investments,80,22
+,,,,,,,
+Shift Technology,Paris,,France,$100M,Fintech,291,21
+Ondot Systems,Santa Clara,CA,USA,$58.5M,Payments/Transfer,245,20
+Greenshades Software,Jacksonville,FL,USA,,FinTech - SaaS,128,20
+Ellevest,New York ,NY,USA,$91.4M,Consumer Finance,109,20
+Point Digital Finance,Palo Alto,CA,USA,$30.4M,Investments - Real Estate,148,20
+LANDBAY,London,ENG,UK,$1.6B,Lending - Consumer,95,18
+GreenSky®,Atlanta,GA,Georgia,,Lending - Consumer,953,16
+Dharma,San Francisco,CA,USA,$7.1M,Fintech,61,16
+IMMO Investment Technologies,London,ENG,UK,,Fintech,44,15
+Boardwalktech,Cupertino,CA,USA,$18.8M,Blockchain,51,13
